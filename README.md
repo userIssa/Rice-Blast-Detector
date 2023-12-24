@@ -30,8 +30,8 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-Teachable Machine
-TensorFlow Lite
+- Teachable Machine
+- TensorFlow Lite
 
 ## Contact
 For questions or feedback, please contact toluwanimioderinde@gmail.com.
